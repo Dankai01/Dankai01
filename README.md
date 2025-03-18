@@ -26,8 +26,6 @@ Sou um desenvolvedor interessado em criar soluções eficientes e bem estruturad
 <div style="display: flex; align-items: center; margin-top: 10px;">
   <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="margin-right: 10px;" />
   <img alt="Visual Studio" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" style="margin-right: 10px;" />
-  <img alt="Microsoft Office" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_2013_logo.svg" style="margin-right: 10px;" />
-</div>
 
 ## 🌍 Onde me encontrar  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-francisco765575)  
