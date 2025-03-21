@@ -15,11 +15,9 @@ Sou um desenvolvedor interessado em criar soluções eficientes e bem estruturad
 <div style="display: flex; align-items: center;">
   <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin-right: 10px;" />
   <img alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="margin-right: 10px;" />
-  <img alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="margin-right: 10px;" />
   <img alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right: 10px;" />
   <img alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-right: 10px;" />
   <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="margin-right: 10px;" />
-  <img alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="margin-right: 10px;" />
 </div>
 
 ### Ferramentas  
